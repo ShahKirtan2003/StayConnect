@@ -8,7 +8,7 @@ An Hostel Management System is built to serve the requirements for successfuly m
 
 ## Tools and technologies specification
 1. Frontend Development : React
-2. Backend Development : Express js
+2. Backend Development : Node.js
 3. NoSQL Database : Mongo DB
 4. Design and Ideation : Figma
 
